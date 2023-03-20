@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there 👋
+Welcome to thee GitHub organization for Coding Pirates Hillerød.
+
+The thought behind this organization is to provide a place for members of Coding Pirates Hillerød to collaborate and share code, thoughts, instructual guides and what not for everything related to our branch of Coding Pirates
 
 <!--
 
